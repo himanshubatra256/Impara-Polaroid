@@ -1,0 +1,22 @@
+.card{
+    background:transparent;
+    color: white;
+    font-family:  'Raleway', sans-serif;
+    border-color: white;
+    border-radius: 15px;
+}
+.background-left{
+    background-color: black;
+    background-image: url('/assets/home.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    
+}
+h1{
+    font-family:  'Raleway', sans-serif;
+    color: white;
+}
+.background{
+    background-color: black;
+}

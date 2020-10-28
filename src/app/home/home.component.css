@@ -1,0 +1,18 @@
+.background{
+    background-color: black;
+}
+h2{
+    font-family:  'Raleway', sans-serif;
+        color: white;
+}
+h6{
+    font-family:  'Raleway', sans-serif;
+        color: white;
+}
+.back{
+    color: grey;
+    background-color: white;
+}
+.vertical-divider{
+    border-right: 1px solid grey;
+}

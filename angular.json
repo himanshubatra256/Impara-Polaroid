@@ -22,11 +22,18 @@
             "assets": [
               "src/favicon.ico",
               "src/assets"
+
             ],
             "styles": [
-              "src/styles.css"
+              "C:/Users/Kunal/Desktop/ImparaPolaroid/node_modules/font-awesome/css/font-awesome.min.css",
+              "src/styles.css",
+              "C:/Users/Kunal/Desktop/ImparaPolaroid/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/Kunal/Desktop/ImparaPolaroid/node_modules/jquery/dist/jquery.min.js",
+              "C:/Users/Kunal/Desktop/ImparaPolaroid/node_modules/bootstrap/dist/js/bootstrap.min.js"
+             
+              ]
           },
           "configurations": {
             "production": {
@@ -88,9 +95,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/Kunal/Desktop/ImparaPolaroid/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/Kunal/Desktop/ImparaPolaroid/node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "C:/Users/Kunal/Desktop/ImparaPolaroid/node_modules/jquery/dist/jquery.min.js"
+            ]
           }
         },
         "lint": {

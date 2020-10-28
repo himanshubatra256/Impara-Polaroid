@@ -1,0 +1,17 @@
+.card{
+
+    margin-top: 40%;
+    background: transparent;
+    border-color: white;
+    border-radius: 15px;
+   
+}
+.background{
+    background-image: url('/assets/new.jpg');
+    height:100%;
+}
+.btn-link{
+    background: transparent;
+    color:white;
+    border: none;
+}
